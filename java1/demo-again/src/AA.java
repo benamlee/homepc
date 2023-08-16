@@ -3,7 +3,7 @@ public class AA {
     System.out.println("iasdoashd");
     for (int i = 0; i < 100; i++) {
       System.out.println(i);
-      if (i == 55) {
+      if (i == 56) {
         for (int j = 0; j < 1000; j++)
           System.out.println("ho");
       }
